@@ -150,7 +150,7 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
-output.css
+static/css/output.css
 # Cython debug symbols
 cython_debug/
 # Node Modules
