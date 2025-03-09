@@ -1,11 +1,7 @@
 module.exports = {
-  purge: [],
-  darkMode: false, // or 'media' or 'class'
+  content: ["./templates/**/*.{html,js,ts,jsx,tsx}"], // Kendi dizinlerinize göre güncelleyin
   theme: {
     extend: {},
   },
-  variants: {
-    extend: {},
-  },
   plugins: [],
-}
+};
