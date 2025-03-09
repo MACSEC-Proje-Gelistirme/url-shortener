@@ -1,7 +1,11 @@
 module.exports = {
-  content: ["./templates/**/*.{html,js,ts,jsx,tsx}"], // Kendi dizinlerinize göre güncelleyin
+  purge: [],
+  darkMode: false,
   theme: {
     extend: {},
   },
+  variants: {
+    extend: {},
+  },
   plugins: [],
-};
+}
