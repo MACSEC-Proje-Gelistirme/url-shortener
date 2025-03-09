@@ -159,7 +159,8 @@ dmypy.json
 static/css/output.css
 # Cython debug symbols
 cython_debug/
-
+# Node Modules
+node_modules/
 #IDE
 .idea
 .vscode
